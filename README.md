@@ -4,7 +4,7 @@
   opencv
   Python 3.10.2
 ## Steps
-1)download the code
+1)download the code  ######
 2)install opencv and mediapipe library
 2) change the path of video to your video.
 3)Set the final path for the output video
