@@ -9,3 +9,4 @@
 ###### 2) change the path of video to your video.
 ###### 3)Set the final path for the output video
 ###### 4)enjoy!
+##### Note:- The code is for detecting the knee bend and starting the timer.
